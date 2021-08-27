@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi!  My name is John Williams.  I'm currently pursuing a Masters of Statistics at North Carolina State University.
 
-### More Information
+### Career
 
-A place to include any other types of information that you'd like to include about yourself.
+
+
+### Travel
+
+Where have you travelled to...
+
+### Minecraft
+
+Examples of builds...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jwilli32@ncsu.edu](mailto:jwilli32@ncsu.edu)
