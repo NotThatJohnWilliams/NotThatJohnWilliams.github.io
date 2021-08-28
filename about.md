@@ -28,7 +28,7 @@ Here are a few of the fascinating places I've been fortunate to visit!
 ![MtMitchell](images/MtMitchell.jpg){:height="140px" width="210px"} ![Roatan](images/Roatan.jpg){:height="140px" width="210px"} ![Skagway](images/Skagway.jpg){:height="140px" width="210px"} 
 ![StJohn](images/StJohn.jpg){:height="140px" width="210px"} ![StKitts](images/StKitts.jpg){:height="140px" width="210px"} ![Glacier2](images/Glacier2.jpg){:height="140px" width="210px"}
 ![Stonehenge](images/Stonehenge.jpg){:height="140px" width="210px"} ![Vesuvius](images/Vesuvius.jpg){:height="140px" width="210px"} ![VirginGorda](images/VirginGorda.jpg){:height="140px" width="210px"}  
-![Yukon](images/Yukon.jpg){:height="140px" width="210px"} ![Alaska2](images/Alaska2.jpg){:height="140px" width="210px"} ![Alaska3](images/Alaska3.jpg){:height="140px" width="210px"}
+![Yukon](images/Yukon.jpg){:height="140px" width="210px"} ![Seattle](images/Seattle.jpg){:height="140px" width="210px"} ![Alaska3](images/Alaska3.jpg){:height="140px" width="210px"}
 
 ### Minecraft
 
