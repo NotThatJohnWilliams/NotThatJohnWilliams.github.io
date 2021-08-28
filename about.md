@@ -21,9 +21,9 @@ Hi!  My name is John Williams!  After 15+ years as an engaging, results-driven l
 
 I love going on adventures across the globe!  Here are a few of the fascinating places I've been fortunate enough to visit:
 
-| [![Alaska1](images/Alaska1.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Coliseum](images/Coliseum.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Colosseum/@41.8902142,12.4900422,17z/)  
+| [![Alaska3](images/Alaska3.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Stonehenge](images/Stonehenge.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Stonehenge/@51.178905,-1.8327997,2773m)  
 |:--:||:--:||:--:|
-| *Tracy Arm Fjord, Alaska* | *Chichén Itzá, Belize* | *Rome, Italy* | 
+| *Tracy Arm Fjord, Alaska* | *Chichén Itzá, Belize* | *Stonehenge, England* | 
 
 | ![ColiseumInterior](images/ColiseumInterior.jpg){:height="160px" width="240px"} | [![Haiti](images/Haiti.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Labadee+Haïti/@19.7815959,-72.2469786,3210m) | [![TrunkBay](images/TrunkBay.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m) | 
 |:--:||:--:||:--:|
@@ -37,13 +37,9 @@ I love going on adventures across the globe!  Here are a few of the fascinating 
 |:--:||:--:||:--:|
 | *St. John, USVI* | *St. Kitts* | *Mendenhall Glacier, Alaska* |
 
-| [![Stonehenge](images/Stonehenge.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Stonehenge/@51.178905,-1.8327997,2773m) | [![Vesuvius](images/Vesuvius.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Mount+Vesuvius/@40.8223812,14.4113962,6695m) | [![VirginGorda](images/VirginGorda.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/The+Baths/@18.430002,-64.446344,2098m) |
+| [![Yukon](images/Yukon.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Yukon+Larger+than+Life+Sign/@59.999337,-134.6668446,1106m) | [![Vesuvius](images/Vesuvius.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Mount+Vesuvius/@40.8223812,14.4113962,6695m) | [![VirginGorda](images/VirginGorda.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/The+Baths/@18.430002,-64.446344,2098m) |
 |:--:||:--:||:--:|
-| *Stonehenge, England* | *Mt. Vesuvius, Italy* | *Virgin Gorda, BVI* |
-
-| [![Yukon](images/Yukon.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Yukon+Larger+than+Life+Sign/@59.999337,-134.6668446,1106m) | [![Seattle](images/Seattle.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Space+Needle/@47.6205063,-122.3514661,745m) | ![Alaska3](images/Alaska3.jpg){:height="160px" width="240px"} |
-|:--:||:--:||:--:|
-| *Yukon, Canada* | *Seattle, WA* | *Alaska* |
+| *Yukon, Canada* | *Mt. Vesuvius, Italy* | *Virgin Gorda, BVI* |
 
 ### Favorite Things
 
