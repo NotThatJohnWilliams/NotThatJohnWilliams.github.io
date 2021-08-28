@@ -24,13 +24,13 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 Here are a few of the fascinating places I've been fortunate to visit!
 
 [![Alaska1](images/Alaska1.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) [![Belize](images/Belize.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) [![Coliseum](images/Coliseum.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Colosseum/@41.8902142,12.4900422,17z/)  
-*Tracy Arm Fjord, Alaska*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Chichén Itzá, Belize*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Rome, Italy*    
+&nbsp;&nbsp;&nbsp;*Tracy Arm Fjord, Alaska*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Chichén Itzá, Belize*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Rome, Italy*    
 
 ![ColiseumInterior](images/ColiseumInterior.jpg){:height="140px" width="210px"} [![Haiti](images/Haiti.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Labadee+Haïti/@19.7815959,-72.2469786,3210m) [![TrunkBay](images/TrunkBay.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m)  
-*Rome, Italy*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Labadee, Haiti*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Trunk Bay, St. John, USVI* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Rome, Italy*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Labadee, Haiti*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Trunk Bay, St. John, USVI* 
 
 [![MtMitchell](images/MtMitchell.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Mt+Mitchell/@35.7646309,-82.2678989,3589m) [![Roatan](images/Roatan.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Roatán/@16.3459564,-86.4390788,37032m) [![Skagway](images/Skagway.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/White+Pass/@59.6209935,-135.0801651,17897m)
-*Mt. Mitchell, NC*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Roatan, Honduras*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*White Pass, Alaska* 
+&nbsp;&nbsp;&nbsp;*Mt. Mitchell, NC*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Roatan, Honduras*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*White Pass, Alaska* 
 
 [![StJohn](images/StJohn.jpg){:height="140px" width="210px"}]((https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m)) [![StKitts](images/StKitts.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Saint+Kitts/@17.3153726,-62.8828814,67570m) [![Glacier2](images/Glacier2.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Mendenhall+Glacier/@58.434765,-134.556738,4631m)
 *Truck Bay, St. John, USVI*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*St. Kitts*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Mendenhall Glacier, Alaska* 
