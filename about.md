@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hi!  My name is John Williams! { .tabset .tabset-pills }  
+## Hi!  My name is John Williams!
 
 After 15+ years as an engaging, results-driven leader within the retail industry, I'm in the middle of a career transition.  In 2020, I decided to make a bold move.  I'm currently continuing my education, pursuing a Masters of Statistics at North Carolina State University.  I'm excited to find out where the next 20+ years of my career take me!
 
@@ -23,12 +23,12 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 Where have you travelled to...
 
-![Alaska](images/Alaska2.jpg){:height="140px" width="210px"} ![Belize](images/Belize.jpg){:height="140px" width="210px"} ![Coliseum](images/Coliseum.jpg){:height="140px" width="210px"}  
+![Alaska1](images/Alaska1.jpg){:height="140px" width="210px"} ![Belize](images/Belize.jpg){:height="140px" width="210px"} ![Coliseum](images/Coliseum.jpg){:height="140px" width="210px"}  
 ![ColiseumInterior](images/ColiseumInterior.jpg){:height="140px" width="210px"} ![Haiti](images/Haiti.jpg){:height="140px" width="210px"} ![MahoganyBay](images/MahoganyBay.jpg){:height="140px" width="210px"} 
 ![MtMitchell](images/MtMitchell.jpg){:height="140px" width="210px"} ![NewYork](images/NewYork.jpg){:height="140px" width="210px"} ![Roatan](images/Roatan.jpg){:height="140px" width="210px"}  
 ![Skagway](images/Skagway.jpg){:height="140px" width="210px"} ![StJohn](images/StJohn.jpg){:height="140px" width="210px"} ![StKitts](images/StKitts.jpg){:height="140px" width="210px"}  
 ![Stonehenge](images/Stonehenge.jpg){:height="140px" width="210px"} ![Vesuvius](images/Vesuvius.jpg){:height="140px" width="210px"} ![VirginGorda](images/VirginGorda.jpg){:height="140px" width="210px"}  
-![Yukon](images/Yukon.jpg){:height="140px" width="210px"} 
+![Yukon](images/Yukon.jpg){:height="140px" width="210px"} ![Alaska2](images/Alaska2.jpg){:height="140px" width="210px"} ![Alaska3](images/Alaska3.jpg){:height="140px" width="210px"}
 
 ### Minecraft
 
