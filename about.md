@@ -23,7 +23,7 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 Where have you travelled to...
 
-![Alaska](https://raw.githubusercontent.com/NotThatJohnWilliams/NotThatJohnWilliams.github.io/master/images/Alaska2.png){:height="200px" width="300px"}
+![Alaska](images/Alaska2.jpg){:height="200px" width="300px"}
 
 ### Minecraft
 
