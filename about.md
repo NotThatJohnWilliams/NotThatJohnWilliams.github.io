@@ -23,8 +23,12 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 Where have you travelled to...
 
-![Alaska](images/Alaska2.jpg){:height="180px" width="270px"} ![Belize](images/Belize.jpg){:height="180px" width="270px"} ![Coliseum](images/Coliseum.jpg){:height="180px" width="270px"}  
-![ColiseumInterior](images/ColiseumInterior.jpg){:height="180px" width="270px"} ![Haiti](images/Haiti.jpg){:height="180px" width="270px"} 
+![Alaska](images/Alaska2.jpg){:height="140px" width="210px"} ![Belize](images/Belize.jpg){:height="140px" width="210px"} ![Coliseum](images/Coliseum.jpg){:height="140px" width="210px"}  
+![ColiseumInterior](images/ColiseumInterior.jpg){:height="140px" width="210px"} ![Haiti](images/Haiti.jpg){:height="140px" width="210px"} ![MahoganyBay](images/MahoganyBay.jpg){:height="140px" width="210px"} 
+![MtMitchell](images/MtMitchell.jpg){:height="140px" width="210px"} ![NewYork](images/NewYork.jpg){:height="140px" width="210px"} ![Roatan](images/Roatan.jpg){:height="140px" width="210px"}  
+![Skagway](images/Skagway.jpg){:height="140px" width="210px"} ![StJohn](images/StJohn.jpg){:height="140px" width="210px"} ![StKitts](images/StKitts.jpg){:height="140px" width="210px"}  
+![Stonehenge](images/Stonehenge.jpg){:height="140px" width="210px"} ![Vesuvius](images/Vesuvius.jpg){:height="140px" width="210px"} ![VirginGorda](images/VirginGorda.jpg){:height="140px" width="210px"}  
+![Yukon](images/Yukon.jpg){:height="140px" width="210px"} 
 
 ### Minecraft
 
