@@ -27,7 +27,7 @@ Here are a few of the fascinating places I've been fortunate to visit!
 *Tracy Arm Fjord, Alaska*    *Chichén+Itzá, Belize*         *Rome, Italy*    
 
 ![ColiseumInterior](images/ColiseumInterior.jpg){:height="140px" width="210px"} [![Haiti](images/Haiti.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Labadee+Haïti/@19.7815959,-72.2469786,3210m) [![TrunkBay](images/TrunkBay.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m)  
-*Tracy Arm Fjord, Alaska*    *Chichén+Itzá, Belize*         *Rome, Italy* 
+*Rome, Italy*                *Labadee, Haiti*               *Trunk Bay, St. John, USVI* 
 
 [![MtMitchell](images/MtMitchell.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Mt+Mitchell/@35.7646309,-82.2678989,3589m) [![Roatan](images/Roatan.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Roatán/@16.3459564,-86.4390788,37032m) [![Skagway](images/Skagway.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/White+Pass/@59.6209935,-135.0801651,17897m)  
 [![StJohn](images/StJohn.jpg){:height="140px" width="210px"}]((https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m)) [![StKitts](images/StKitts.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Saint+Kitts/@17.3153726,-62.8828814,67570m) [![Glacier2](images/Glacier2.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Mendenhall+Glacier/@58.434765,-134.556738,4631m)
