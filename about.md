@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi!  My name is John Williams!  After 15+ years as an engaging, results-driven leader within the retail industry, I'm in the middle of a career transition.  In 2020, I decided to make a bold move.  I'm currently continuing my education, pursuing a Masters of Statistics at North Carolina State University.  I'm excited to find out where the next 20+ years of my career take me!
+Hi!  My name is John Williams!  After 15+ years as an engaging, results-driven leader within the retail industry, I'm in the middle of a career transition.  In 2020, I decided to make a bold move.  I'm currently continuing my education, pursuing a Masters of Statistics at [North Carolina State University](https://www.ncsu.edu/).  I'm excited to find out where the next 20+ years of my career take me!
 
 ### Education and Experience
 
