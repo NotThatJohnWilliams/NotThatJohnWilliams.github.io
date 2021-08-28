@@ -23,7 +23,7 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 Here are a few of the fascinating places I've been fortunate to visit!
 
-| [![Alaska1](images/Alaska1.jpg){:height="150px" width="225px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="150px" width="225px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Coliseum](images/Coliseum.jpg){:height="150px" width="225px"}](https://www.google.com/maps/place/Colosseum/@41.8902142,12.4900422,17z/)  
+| [![Alaska1](images/Alaska1.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Coliseum](images/Coliseum.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Colosseum/@41.8902142,12.4900422,17z/)  
 |:--:||:--:||:--:|
 | *Tracy Arm Fjord, Alaska* | *Chichén Itzá, Belize* | *Rome, Italy* | 
 
