@@ -23,7 +23,8 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 Where have you travelled to...
 
-![Alaska](images/Alaska2.jpg)
+![Alaska](images/Alaska2.jpg)  
+<img src="images/Belize.jpg" width="300" height="200">
 
 ### Minecraft
 
