@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hi!  My name is John Williams!
-
-After 15+ years as an engaging, results-driven leader within the retail industry, I'm in the middle of a career transition.  In 2020, I decided to make a bold move.  I'm currently continuing my education, pursuing a Masters of Statistics at North Carolina State University.  I'm excited to find out where the next 20+ years of my career take me!
+Hi!  My name is John Williams!  After 15+ years as an engaging, results-driven leader within the retail industry, I'm in the middle of a career transition.  In 2020, I decided to make a bold move.  I'm currently continuing my education, pursuing a Masters of Statistics at North Carolina State University.  I'm excited to find out where the next 20+ years of my career take me!
 
 ### Education and Experience
 
@@ -21,7 +19,7 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 ### Travel
 
-Here are a few of the fascinating places I've been fortunate to visit!
+I love going on adventures across the globe!  Here are a few of the fascinating places I've been fortunate enough to visit:
 
 | [![Alaska1](images/Alaska1.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Coliseum](images/Coliseum.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Colosseum/@41.8902142,12.4900422,17z/)  
 |:--:||:--:||:--:|
@@ -46,6 +44,16 @@ Here are a few of the fascinating places I've been fortunate to visit!
 | [![Yukon](images/Yukon.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Yukon+Larger+than+Life+Sign/@59.999337,-134.6668446,1106m) | [![Seattle](images/Seattle.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Space+Needle/@47.6205063,-122.3514661,745m) | ![Alaska3](images/Alaska3.jpg){:height="160px" width="240px"} |
 |:--:||:--:||:--:|
 | *Yukon, Canada* | *Seattle, WA* | *Alaska* |
+
+### Favorite Things
+
+| Books | Podcasts | Music | TV |
+|:--:||:--:||:--:|
+| *The Commonwealth Saga* by Peter F. Hamilton | Marketplace | ??? | ??? |
+| *The Magicians* by Les Grossman | Radiolab | ??? | ??? |
+| ??? | Make Me Smart | ??? | ??? |
+| ??? | Not So Standard Deviations | ??? | ??? |
+| ??? | ??? | ??? | ??? |
 
 ### Minecraft
 
