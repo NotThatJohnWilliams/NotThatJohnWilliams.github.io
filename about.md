@@ -47,7 +47,7 @@ I love going on adventures across the globe!  Here are a few of the fascinating 
 
 ### Favorite Things
 
-| Books | Podcasts | Music | TV |
+| **Books** | **Podcasts** | **Music** | **TV** |
 |:--:||:--:||:--:|
 | *The Commonwealth Saga* by Peter F. Hamilton | Marketplace | ??? | ??? |
 | *The Magicians* by Les Grossman | Radiolab | ??? | ??? |
