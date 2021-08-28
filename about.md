@@ -23,7 +23,7 @@ After 15+ years as an engaging, results-driven leader within the retail industry
 
 Here are a few of the fascinating places I've been fortunate to visit!
 
-[![Alaska1](images/Alaska1.jpg)](https://www.google.com/maps/place/Tracy+Arm/){:height="140px" width="210px"} [![Belize](images/Belize.jpg)](https://www.google.com/maps/place/Chichén+Itzá/){:height="140px" width="210px"} ![Coliseum](images/Coliseum.jpg){:height="140px" width="210px"}  
+[![Alaska1](images/Alaska1.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Tracy+Arm/) [![Belize](images/Belize.jpg){:height="140px" width="210px"}](https://www.google.com/maps/place/Chichén+Itzá/) ![Coliseum](images/Coliseum.jpg){:height="140px" width="210px"}  
 ![ColiseumInterior](images/ColiseumInterior.jpg){:height="140px" width="210px"} ![Haiti](images/Haiti.jpg){:height="140px" width="210px"} ![MahoganyBay](images/MahoganyBay.jpg){:height="140px" width="210px"} 
 ![MtMitchell](images/MtMitchell.jpg){:height="140px" width="210px"} ![Roatan](images/Roatan.jpg){:height="140px" width="210px"} ![Skagway](images/Skagway.jpg){:height="140px" width="210px"} 
 ![StJohn](images/StJohn.jpg){:height="140px" width="210px"} ![StKitts](images/StKitts.jpg){:height="140px" width="210px"} ![Glacier2](images/Glacier2.jpg){:height="140px" width="210px"}
