@@ -13,9 +13,9 @@ I love going on adventures across the globe any chance I get!  I've vacationed i
 
 ### Travel Photos
 
-| [![Alaska3](images/Alaska3.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Stonehenge](images/Stonehenge.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Stonehenge/@51.178905,-1.8327997,2773m)  
+| ![Alaska3](images/Alaska3.jpg){:height="160px" width="240px"} | ![Belize](images/Belize.jpg){:height="160px" width="240px"} | ![Stonehenge](images/Stonehenge.jpg){:height="160px" width="240px"}  
 |:--:||:--:||:--:|
-| *Tracy Arm Fjord, Alaska* | *Chichén Itzá, Belize* | *Stonehenge, England* | 
+| [*Tracy Arm Fjord, Alaska*](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [*Xunantunich, Belize*](https://www.google.com/maps/place/Xunantunich+Mayan+Ruins/@17.0890901,-89.1427529,15z/) | [*Stonehenge, England*](https://www.google.com/maps/place/Stonehenge/@51.178905,-1.8327997,2773m) | 
 
 | ![ColiseumInterior](images/ColiseumInterior.jpg){:height="160px" width="240px"} | [![Haiti](images/Haiti.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Labadee+Haïti/@19.7815959,-72.2469786,3210m) | [![TrunkBay](images/TrunkBay.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m) | 
 |:--:||:--:||:--:|
