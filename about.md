@@ -33,10 +33,6 @@ I love going on adventures across the globe any chance I get!  I've vacationed i
 |:--:||:--:||:--:|
 | [*Yukon, Canada*](https://www.google.com/maps/place/Yukon+Larger+than+Life+Sign/@59.999337,-134.6668446,1106m) | [*Mt. Vesuvius, Italy*](https://www.google.com/maps/place/Mount+Vesuvius/@40.8223812,14.4113962,6695m) | [*Virgin Gorda, BVI*](https://www.google.com/maps/place/The+Baths/@18.430002,-64.446344,2098m) |
 
-### Minecraft
-
-Examples of builds...
-
 ### Contact me
 
 [jwilli32@ncsu.edu](mailto:jwilli32@ncsu.edu)
