@@ -19,7 +19,7 @@ I love going on adventures across the globe any chance I get!  I've vacationed i
 
 | ![ColiseumInterior](images/ColiseumInterior.jpg){:height="160px" width="240px"} | ![Haiti](images/Haiti.jpg){:height="160px" width="240px"} | ![TrunkBay](images/TrunkBay.jpg){:height="160px" width="240px"} | 
 |:--:||:--:||:--:|
-| *Rome, Italy* | [*Labadee, Haiti*](https://www.google.com/maps/place/Labadee+Haïti/@19.7815959,-72.2469786,3210m) | [*St. John, USVI*](https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m) |
+| [*Rome, Italy*](https://www.google.com/maps/place/Colosseum/@41.8902102,12.4922309,15z) | [*Labadee, Haiti*](https://www.google.com/maps/place/Labadee+Haïti/@19.7815959,-72.2469786,3210m) | [*St. John, USVI*](https://www.google.com/maps/place/Trunk+Bay/@18.3526056,-64.7696255,991m) |
 
 | ![MtMitchell](images/MtMitchell.jpg){:height="160px" width="240px"} | ![Roatan](images/Roatan.jpg){:height="160px" width="240px"} | ![Skagway](images/Skagway.jpg){:height="160px" width="240px"} |
 |:--:||:--:||:--:|
