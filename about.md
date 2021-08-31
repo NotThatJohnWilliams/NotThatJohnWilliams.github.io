@@ -4,22 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Hi!  My name is John Williams!  After 15+ years as an engaging, results-driven leader within the retail industry, I'm in the middle of a career transition.  In 2020, I decided to make a bold move.  I'm currently continuing my education, pursuing a Masters of Statistics at [North Carolina State University](https://www.ncsu.edu/).  I'm excited to find out where the next 20+ years of my career take me!
+Hello!  My name is John Williams!  After 15+ years as an [engaging, results-driven leader](https://www.linkedin.com/in/johnwilliamsjcp/) within the retail industry, I'm currently in the middle of a career transition.  In 2020, I decided to make a bold move and continue my education, pursuing a Masters of Statistics at [North Carolina State University](https://www.ncsu.edu/).  I expect to graduate in May 2022!  I'm excited and eager to find out where the next 20+ years of my career will take me!
 
-### Education and Experience
+While I'm not a talented composer like that other John Williams, I am a big fan of everything math, economics, science, sci-fi, and [Minecraft](https://www.minecraft.net/)!  My favorite podcasts are [Marketplace](https://www.marketplace.org/shows/marketplace/), [Make Me Smart](https://www.marketplace.org/shows/make-me-smart-with-kai-and-molly/), [RadioLab](https://www.wnycstudios.org/podcasts/radiolab/projects/podcasts), and--most recently--[Not So Standard Deviations](https://nssdeviations.com/).  I don't have any pets or kids, but I do have several orchids that I've rescued from friends and family who just couldn't get them to flourish. Given the temperment of *phalaenopses*, I think they count as pets, right?
 
-* Bachelors of Science, Applied Mathematics (Old Dominion Univeristy - 2007)
-* JCPenney
-    - Assistant Store Manager - Richmond, VA (2008-2012)
-    - Store Leader - Danville, VA (2012 - 2015)
-    - District Merchandise Manager - Winston-Salem, NC (2015-2017)
-    - General Manager - Danville, VA (2017 - 2020)
-* Belk
-    - Assistant Store Manager - Greensboro, NC (2017)
+I love going on adventures across the globe any chance I get!  I've vacationed in 16 countries and hope to visit many more once things are back to normal.  But since globetrotting isn't an option right now, I spend most of my free time playing Minecraft.  It's just as fun as Legos without the agony of stepping on the blocks.  Ouch!
 
-### Travel
 
-I love going on adventures across the globe!  Here are a few of the fascinating places I've been fortunate enough to visit:
+### Travel Photos
 
 | [![Alaska3](images/Alaska3.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Tracy+Arm/@57.8503894,-133.6521792,10z) | [![Belize](images/Belize.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Chichén+Itzá/@20.6829614,-88.5746156,4139m) | [![Stonehenge](images/Stonehenge.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Stonehenge/@51.178905,-1.8327997,2773m)  
 |:--:||:--:||:--:|
@@ -40,16 +32,6 @@ I love going on adventures across the globe!  Here are a few of the fascinating 
 | [![Yukon](images/Yukon.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Yukon+Larger+than+Life+Sign/@59.999337,-134.6668446,1106m) | [![Vesuvius](images/Vesuvius.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/Mount+Vesuvius/@40.8223812,14.4113962,6695m) | [![VirginGorda](images/VirginGorda.jpg){:height="160px" width="240px"}](https://www.google.com/maps/place/The+Baths/@18.430002,-64.446344,2098m) |
 |:--:||:--:||:--:|
 | *Yukon, Canada* | *Mt. Vesuvius, Italy* | *Virgin Gorda, BVI* |
-
-### Favorite Things
-
-| **Books** | **Podcasts** | **Music** | **TV** |
-|:--:||:--:||:--:|
-| *The Commonwealth Saga* by Peter F. Hamilton | Marketplace | ??? | ??? |
-| *The Magicians* by Les Grossman | Radiolab | ??? | ??? |
-| ??? | Make Me Smart | ??? | ??? |
-| ??? | Not So Standard Deviations | ??? | ??? |
-| ??? | ??? | ??? | ??? |
 
 ### Minecraft
 
