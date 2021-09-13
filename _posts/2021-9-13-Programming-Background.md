@@ -1,6 +1,3 @@
-------------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 My first adventure into programming languages was a project in BASIC in
 5th grade. I made one pixelated number “bump” on screen into another
