@@ -1,6 +1,6 @@
 
 URL to Vignette: [Accessing API’s Using R: An Example Using REST
-Countries API](https://not-that-john-williams.github.io/vignette-api/)
+Countries API](https://not-that-john-williams.github.io/vignette-api/)  
 URL to Github Repository:
 [vignette-api](https://github.com/not-that-john-williams/vignette-api/tree/gh-pages)
 
