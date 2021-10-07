@@ -37,10 +37,13 @@ Finally, here are a few "best practices" to remember when tackling future data s
 * Don't jump in without a plan. Look at the whole picture, formulate the questions that need answered or express the final objective, and create an outline. Time spent on this at the very beginning is well worth it.
 * Break big, overwhelming tasks into smaller chunks.  Create helper functions as needed. You'll be surprised how many times you may reuse a helper function throughout the project which saves you time and brain power.
 * Use other's hard work. There are many stellar resources online. Become skilled at seeking (and compiling!) proven packages and functions available to complete complex tasks.
-* COmments are your best friend. Don't just answer why you did something but also explain how.
+* Comments are your best friend. Don't just answer why you did something but also explain how.
 
 ## Code Used to Generate This Blog Post
 
 ```{r eval=FALSE}
-rmarkdown::render("_Rmd/2021-10-05-API-Vignette.Rmd", output_format = "github_document", output_dir = "_posts", output_file = "2021-10-05-API-Vignette.md")
+rmarkdown::render("_Rmd/2021-10-05-API-Vignette.Rmd", 
+                  output_format = "github_document", 
+                  output_dir = "_posts", 
+                  output_file = "2021-10-05-API-Vignette.md")
 ```

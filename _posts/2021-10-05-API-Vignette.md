@@ -73,11 +73,14 @@ future data science projects:
 -   Use other’s hard work. There are many stellar resources online.
     Become skilled at seeking (and compiling!) proven packages and
     functions available to complete complex tasks.
--   COmments are your best friend. Don’t just answer why you did
+-   Comments are your best friend. Don’t just answer why you did
     something but also explain how.
 
 ## Code Used to Generate This Blog Post
 
 ``` r
-rmarkdown::render("_Rmd/2021-10-05-API-Vignette.Rmd", output_format = "github_document", output_dir = "_posts", output_file = "2021-10-05-API-Vignette.md")
+rmarkdown::render("_Rmd/2021-10-05-API-Vignette.Rmd", 
+                  output_format = "github_document", 
+                  output_dir = "_posts", 
+                  output_file = "2021-10-05-API-Vignette.md")
 ```
