@@ -15,12 +15,3 @@ Sales](https://github.com/not-that-john-williams/used-car-sales/blob/3288748cc62
 
 Review the SAS code here: [SAS
 Code](https://github.com/not-that-john-williams/used-car-sales/blob/3288748cc62e392cd81a6e9f7f38d557e8523cce/used_car_sales.sas)
-
-## Code Used to Generate This Blog Post
-
-``` r
-rmarkdown::render("_Rmd/2022-01-06-Time-Series-Analysis-of-Used-Car-Sales.Rmd", 
-                  output_format = "github_document", 
-                  output_dir = "_posts", 
-                  output_file = "2022-01-06-Time-Series-Analysis-of-Used-Car-Sales.md")
-```
