@@ -11,4 +11,6 @@ Here is the data:
 
 ![Olympic Data](../images/olympics-data.png)
 
-Here’s the analysis using Bayesian methods.
+Here’s the analysis using Bayesian methods: [Home-Field Advantage in the
+Summer
+Olympics](https://github.com/not-that-john-williams/olympics-bayesian/blob/853de9d1b9f357f8dd70c9634c6f32e7af747490/Home-Field-Advantage-in-the-Summer-Olympics.md)
